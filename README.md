@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/ea1393fc-1ede-4b01-a0e0-f0fd7ba11f4b)
 
 **Question4: Can we create and dispatch event in the connectedCallback() method of Lightning Web Component**
-**Yes, it allows you to fire and custom event. Also it allows events(such as publish-subscribe events) **
+**Yes, it allows you to fire and custom event. Also it allows events(such as publish-subscribe events)**
 ![image](https://github.com/user-attachments/assets/3fab2f31-fd03-433f-b91a-d438c8ffd586)
 ![image](https://github.com/user-attachments/assets/08c31e16-c9bb-47a1-be0d-a08cf51d93b6)
 ![image](https://github.com/user-attachments/assets/03737ce3-1d10-40e1-be7b-b4323d047bf1)
