@@ -10,3 +10,5 @@
 ![image](https://github.com/user-attachments/assets/4b30ccd6-9918-449f-b4ef-e881b3a97e2c)
 ![image](https://github.com/user-attachments/assets/3c381dde-c16c-4e39-ad10-e981134fb127)
 ![image](https://github.com/user-attachments/assets/ea1393fc-1ede-4b01-a0e0-f0fd7ba11f4b)
+
+Question4: Can we create and dispatch event 
